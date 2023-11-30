@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diego Farias 
-- 👀 I’m interested em entrar na area de programação
+- 👀 I’m interested Programador Backend
 - 🌱 I’m currently learni C# // C++ // SQL // MongoDB
 - 💞️ I’m looking to collaborate em projetos para iniciantes
 - 📫 How to reach me Email: elementodavida1@hotmail.com
