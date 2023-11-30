@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diego Farias 
 - 👀 I’m interested Programador Backend
-- 🌱 I’m currently learni C# // C++ // SQL // MongoDB
+- 🌱 Linguagem preferida C# // C++ // SQL // SQL Server // MongoDB
 - 💞️ I’m looking to collaborate em projetos para iniciantes
 - 📫 How to reach me Email: elementodavida1@hotmail.com
 
